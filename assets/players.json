@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Enzo",
+    "texture": "assets/spriteenzo.png",
+    "move_texture1": "assets/enzo/1.png",
+    "move_texture2": "assets/enzo/2.png",
+    "stat": {
+      "texture": "",
+      "speed": 8,
+      "jump": 65,
+      "health": 1
+    }
+  },
+  {
+    "name": "Ezio",
+    "texture": "assets/spritesezio.png",
+    "move_texture1": "assets/ezio/1.png",
+    "move_texture2": "assets/ezio/2.png",
+    "stat": {
+      "texture": "",
+      "speed": 7,
+      "jump": 72,
+      "health": 1
+    }
+  },
+  {
+    "name": "Edgar",
+    "texture": "assets/spritesedgar.png",
+    "move_texture1": "assets/edgar/1.png",
+    "move_texture2": "assets/edgar/2.png",
+    "stat": {
+      "texture": "",
+      "speed": 10,
+      "jump": 500,
+      "health": 1
+    }
+  },
+  {
+    "name": "William",
+    "texture": "assets/spriteswilliam.png",
+    "move_texture1": "assets/william/1.png",
+    "move_texture2": "assets/william/2.png",
+    "stat": {
+      "texture": "",
+      "speed": 5,
+      "jump": 65,
+      "health": 2
+    }
+  },
+  {
+    "name": "Jean-Baptiste",
+    "texture": "assets/spritesjb.png",
+    "move_texture1": "assets/jb/1.png",
+    "move_texture2": "assets/jb/2.png",
+    "stat": {
+      "texture": "",
+      "speed": 5,
+      "jump": 85,
+      "health": 1
+    }
+  },
+  {
+    "name": "lenny",
+    "texture": "assets/spriteslenny.png",
+    "move_texture1": "assets/lenny/1.png",
+    "move_texture2": "assets/lenny/2.png",
+    "stat": {
+      "texture": "",
+      "speed": 6,
+      "jump": 78,
+      "health": 1
+    }
+  }
+]

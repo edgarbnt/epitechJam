@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Kick-Off Sokoban",
+    "texture": "assets/enemy_sokoban_kickoff.png",
+    "position": {
+      "x": 1400,
+      "y": 430
+    },
+    "health": 100,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "Kick-Off MyLS",
+    "texture": "assets/enemy_my_ls.png",
+    "position": {
+      "x": 860,
+      "y": 273
+    },
+    "health": 75,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "Project Organized",
+    "texture": "assets/enemy_organized.png",
+    "position": {
+      "x": 620,
+      "y": 430
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": false
+  },
+  {
+    "name": "Project MyHunter",
+    "texture": "assets/enemy_myhunter.png",
+    "position": {
+      "x": 2320,
+      "y": 273
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": false
+  },
+  {
+    "name": "Bootstrap MyHunter",
+    "texture": "assets/enemy_bs_my_hunter.png",
+    "position": {
+      "x": 2900,
+      "y": 430
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "Bootstrap MyLs",
+    "texture": "assets/enemy_bs_my_ls.png",
+    "position": {
+      "x": 3400,
+      "y": 110
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "kick_of_my_ls",
+    "texture": "assets/enemy_my_ls.png",
+    "position": {
+      "x": 3300,
+      "y": 430
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "bs setting up",
+    "texture": "assets/enemy_bs_setting_up.png",
+    "position": {
+      "x": 3800,
+      "y": 430
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "Project MyLs",
+    "texture": "assets/enemy_project_my_ls.png",
+    "position": {
+      "x": 4300,
+      "y": 430
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": false
+  },
+  {
+    "name": "fu myls",
+    "texture": "assets/enemy_fu_my_ls.png",
+    "position": {
+      "x": 4700,
+      "y": 430
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "Project sokoban",
+    "texture": "assets/enemy_my_sokoban.png",
+    "position": {
+      "x": 5180,
+      "y": 110
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": false
+  },
+  {
+    "name": "fu sokoban",
+    "texture": "assets/enemy_fu_my_sokoban.png",
+    "position": {
+      "x": 6700,
+      "y": 430
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  },
+  {
+    "name": "fu setting up",
+    "texture": "assets/enemy_fu_setting_up.png",
+    "position": {
+      "x": 7160,
+      "y": 350
+    },
+    "health": 150,
+    "size": {
+      "width": 100,
+      "height": 100
+    },
+    "is_optional": true
+  }
+]
